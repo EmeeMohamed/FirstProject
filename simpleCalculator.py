@@ -49,7 +49,7 @@ while True:
     elif choose == 3:
         multiplication(firstNum,secondNum)
     elif choose == 4:
-        divition(firstNum,secondNum)
+        division(firstNum,secondNum)
     elif choose == 5:
         print("Thank you for using my Calculator")
         break
